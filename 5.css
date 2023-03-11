@@ -1,0 +1,72 @@
+.logo img{
+    display: flex;
+    justify-content: center;
+    background-size: 30px 30px;
+    width: 90px;
+}
+.texto-logo{
+    padding-left: 125px;
+    margin-top: -80px;
+    font-family: 'Cousine', cursive;
+}
+.comprobacion{
+    padding-left: 295px;
+    margin-top: 70px;
+    font-family: 'Martian mono', cursive;
+}
+.texto2{
+    font-family: 'Scada', sans-serif;
+    padding-left: 215px;
+    margin-top: 90px;
+}
+.jspro29{
+    font-family: 'Martian mono', cursive;
+}
+.logo-carga{
+    padding-left: 595px;
+    margin-top: 60px;
+}
+.linea_humilde{
+    margin-top: 285px;
+}
+.footer{
+    font-family: 'Scada', sans-serif;
+    margin-top: 170px;
+    padding-left: 100px;
+}
+.background{
+    padding-left: 995px;
+}
+.socials{
+    width: 120px;
+    padding-left: 1115px;
+    margin-top: -140px; 
+}
+.status-text{
+    font-family: 'Scada', sans-serif;
+    margin-top: -340px; 
+    padding-left: 100px;
+}
+.socialstext-2{
+    font-family: 'Scada', sans-serif;
+    padding-left: 1000px;
+    margin-top: -100px; 
+}
+.text-socials{
+    font-family: 'Cousine', cursive;
+    padding-left: 1000px;
+    margin-top: 125px;
+}
+.credits{
+    padding-left: 500px;
+    margin-top: -170px; 
+    font-family: 'Cousine', cursive;
+}
+.linea2{
+    margin-top: 50px
+}
+.logo-footer img{
+    padding-left: 585px;
+    margin-top: 50px;
+    width: 70px;
+}
